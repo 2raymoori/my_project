@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Muhammed Manneh
+=======
+Lamin O.Touray
+>>>>>>> 22655ca (name2)
